@@ -1,10 +1,10 @@
-# Get the ultimate MEV arbitrage bot with updated MEV arbitrage bot | volume-spike-detection + gas-optimization. Featuring volume-spike-detection and gas-optimization, it's the best
+# 
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Twilightfobeam.github.io/mev-arbitrage-bot-gk26/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
